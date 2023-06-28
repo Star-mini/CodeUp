@@ -1,4 +1,4 @@
-a= input()
+a=input()
 
 a=int(a)
 
