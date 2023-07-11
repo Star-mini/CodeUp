@@ -6,7 +6,7 @@ b=int(b)
 a=bool(a)
 b=bool(b)
 
-if a and b == False:
+if a == False and b == False:
     print("True")
 else:
     print("False")
